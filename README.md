@@ -1,4 +1,4 @@
-<a href="https://drive.google.com/file/d/1kfZOPuzV9ldtAIkRaOvF-30zNMyS8981/view?usp=sharing" target="_blank" rel="download org image">![alt README header](https://github.com/zmcx16/zmcx16/blob/master/images/kanban1-demo.jpg?raw=true)</a>
+<a href="https://drive.google.com/uc?export=download&id=1kfZOPuzV9ldtAIkRaOvF-30zNMyS8981" target="_blank" rel="download org image">![alt README header](https://github.com/zmcx16/zmcx16/blob/master/images/kanban1-demo.jpg?raw=true)</a>
 
 ## Profile
 Property                 | Data  
