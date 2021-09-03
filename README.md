@@ -10,6 +10,7 @@ I'm **Syed Mustafa Ahmed**. Currently doing my bachelors in **Computer Science**
 - [My Linux Stuff](https://github.com/SyedMustafaAhmad/linux-stuff) (:clipboard: personal)
 - [CLI Operating System](https://github.com/SyedMustafaAhmad/OS)
 - [new-hero (C++ OpenGL Game)](https://github.com/SyedMustafaAhmad/new_hero) (:writing_hand: ongoing...)
+- [metacomp (large file comparison algorithm](https://github.com/SyedMustafaAhmad/metacomp) (:writing_hand: to update with binaries...)
 
 ## Contact Me
 :link: [Twitter](https://twitter.com/SMustafaAhmad) </br>
