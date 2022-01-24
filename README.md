@@ -8,6 +8,7 @@ I'm **Syed Mustafa Ahmed**. Currently doing my bachelors in **Computer Science**
 - [World Aquifer Forecast Engine & Research (WAFER)](https://github.com/SyedMustafaAhmad/WAFER) (:writing_hand: current...)
 - [Trajectory Prediction in Particle Colliders (TPIPC)](https://github.com/SyedMustafaAhmad/TPIPC) (:writing_hand: ongoing...)
 - [Debian Autosetup](https://github.com/SyedMustafaAhmad/debian-autosetup) (:eye: constantly updated)
+- [Extended WGET](https://github.com/SyedMustafaAhmad/extwget)
 - [My Linux Stuff](https://github.com/SyedMustafaAhmad/linux-stuff) (:clipboard: personal)
 - [CLI Operating System](https://github.com/SyedMustafaAhmad/OS)
 - [new-hero (C++ OpenGL Game)](https://github.com/SyedMustafaAhmad/new_hero) (:writing_hand: ongoing...)
