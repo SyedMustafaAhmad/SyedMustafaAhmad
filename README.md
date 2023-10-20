@@ -2,7 +2,7 @@
 </br>
 
 # Greetings 👋
-I'm **Syed Mustafa Ahmed**. Currently doing my bachelors in **Computer Science**. I'm interested in operating systems, Linux, physics, spacecrafts and free opensource software. Currently, I am a novice so my current projects are very basic in nature. Although, I do have some interesting one's I'm currently invested in so I'm excited to share them and get some feedback.
+I'm **Syed Mustafa Ahmed**. Currently doing my Master's in **Computer Science**. I'm interested in operating systems, Linux, physics, spacecrafts and free opensource software. Currently, I am a novice so my current projects are very basic in nature. Although, I do have some interesting one's I'm currently invested in so I'm excited to share them and get some feedback.
 
 ## Repositories
 - [Stable Diffusion v2.1 Python Tkinter Application](https://github.com/SyedMustafaAhmad/sdf-tkinter) (:writing_hand: current...)
