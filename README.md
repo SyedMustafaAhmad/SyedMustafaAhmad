@@ -8,12 +8,12 @@ I'm **Syed Mustafa Ahmed**. Currently doing my Master's in **Computer Science**.
 - [Stable Diffusion v2.1 Python Tkinter Application](https://github.com/SyedMustafaAhmad/sdf-tkinter) (current...)
 - [World Aquifer Forecast Engine & Research (WAFER)](https://github.com/SyedMustafaAhmad/WAFER) (urrent...)
 - [Trajectory Prediction in Particle Colliders (TPIPC)](https://github.com/SyedMustafaAhmad/TPIPC) (paused)
-- [Debian Autosetup](https://github.com/SyedMustafaAhmad/debian-autosetup) (:eye: constantly updated)
+- [Debian Autosetup](https://github.com/SyedMustafaAhmad/debian-autosetup) (constantly updated)
 - [Extended WGET](https://github.com/SyedMustafaAhmad/extwget)
-- [My Linux Stuff](https://github.com/SyedMustafaAhmad/linux-stuff) (:clipboard: personal)
+- [My Linux Stuff](https://github.com/SyedMustafaAhmad/linux-stuff) (personal)
 - [CLI Operating System](https://github.com/SyedMustafaAhmad/OS)
-- [new-hero (C++ OpenGL Game)](https://github.com/SyedMustafaAhmad/new_hero) (:writing_hand: ongoing...)
-- [metacomp (large file comparison algorithm)](https://github.com/SyedMustafaAhmad/metacomp) (:writing_hand: to update with binaries...)
+- [new-hero (C++ OpenGL Game)](https://github.com/SyedMustafaAhmad/new_hero) (ongoing...)
+- [metacomp (large file comparison algorithm)](https://github.com/SyedMustafaAhmad/metacomp) (to update with binaries...)
 
 ## Contact Me
 :link: [Twitter](https://twitter.com/SMustafaAhmad) </br>
