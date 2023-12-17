@@ -18,4 +18,4 @@ I'm **Syed Mustafa Ahmed**. Currently doing my Master's in **Computer Science**.
 ## Contact Me
 :link: [Twitter](https://twitter.com/SMustafaAhmad) </br>
 :link: [LinkedIn](https://www.linkedin.com/in/syedmustafaahmad/) </br>
-:email: <a href = "mailto: syedmustafaahmad@gmail.com">Send Email</a>
+:email: <a href = "mailto: me@syedmustafaahmed.com">Send Email</a>
